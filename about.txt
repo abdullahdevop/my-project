@@ -1,1 +1,2 @@
-"My awesome project" 
+name : abdullah
+fav lang : python
